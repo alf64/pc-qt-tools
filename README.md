@@ -1,2 +1,2 @@
 # pc-qt-tools
-Tools for PC written using Qt.
+A set of tools for PC, written in Qt.
